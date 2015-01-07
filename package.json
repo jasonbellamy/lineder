@@ -1,0 +1,36 @@
+{
+  "name": "lineder",
+  "description": "Finds and returns information on each line of the file that matches a regular expression,",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jasonbellamy/lineder",
+  "author": {
+    "name": "Jason Bellamy",
+    "email": "j@sonbellamy.com",
+    "url": "http://jasonbellamy.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jasonbellamy/lineder.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jasonbellamy/lineder/issues"
+  },
+  "license": "MIT",
+  "main": "lib/lineder",
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "3.1.2"
+  },
+  "keywords": [
+    "line",
+    "find",
+    "search",
+    "regex"
+  ]
+}
