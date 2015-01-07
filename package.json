@@ -1,7 +1,7 @@
 {
   "name": "lineder",
   "description": "Finds and returns information on each line of the file that matches a regular expression,",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jasonbellamy/lineder",
   "author": {
     "name": "Jason Bellamy",
