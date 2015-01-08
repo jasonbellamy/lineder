@@ -27,7 +27,7 @@ var lineder = require( "lineder" );
    3. this is the text for line three.
 */
 
-lineder( "file.txt", "line two", function( err, results ) {
+lineder( "file.txt" ).find( "line two", function( err, results ) {
   //=> [ { line: 2, value "this is the text for line two." } ]
 });
 ```
